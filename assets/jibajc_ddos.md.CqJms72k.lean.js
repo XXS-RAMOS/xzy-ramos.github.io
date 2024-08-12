@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as o}from"./chunks/framework.BSB0Uh0P.js";const b=JSON.parse('{"title":"黑客DDoS教程","description":"","frontmatter":{},"headers":[],"relativePath":"jibajc/ddos.md","filePath":"jibajc/ddos.md"}'),s={name:"jibajc/ddos.md"},i=o("",7),d=[i];function n(c,l,r,h,_,p){return t(),e("div",null,d)}const m=a(s,[["render",n]]);export{b as __pageData,m as default};
